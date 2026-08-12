@@ -19,7 +19,7 @@ Transitioning two decades of investigative experience, policy enforcement, and r
 ### 🛠️ Skills & Knowledge Base
 
 **Governance & Compliance Frameworks**
-`NIST CSF` | `NIST SP 800-53` | `ISO 27001` | `SOC 2` | `PCI-DSS`
+`NIST CSF 2.0` | `NIST SP 800-53 Rev 5` | `ISO 27001` | `SOC 2` | `PCI-DSS`
 
 **Technical & Security Tools**
 `Linux` | `SimpleRisk` | `CISO Assistant` 
