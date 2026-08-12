@@ -35,7 +35,7 @@ Transitioning two decades of investigative experience, policy enforcement, and r
 
 ### 📬 Connect with Me
 - **Email:** contact.a6c0y@aleeas.com
-- **LinkedIn:** (https://www.linkedin.com/in/philip-harris-k9/)
+- **LinkedIn:** [Philip Harris](https://www.linkedin.com/in/philip-harris-k9/)
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
