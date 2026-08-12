@@ -1,5 +1,5 @@
 <div align="center">
-    <p style="font-size: 2em; font-weigh: bold; margin-bottom 8px;">Philip Harris</p>
+    <h2>Philip Harris</h2>
     <p><strong>Cybersecurity & GRC Professional | 20+ Years Law Enforcement Experience</strong></p>
 </div>
 
