@@ -25,14 +25,14 @@ Transitioning two decades of investigative experience, policy enforcement, and r
 **Core Competencies**
 `Risk Assessment` | `Policy Development & Writing` | `Auditing & Evidence Gathering` | `Incident Response Planning` | `Investigative Analysis`
 
----
+<!-- ---
 
 ### 📂 Featured GRC & Cyber Projects
 - **[Project Name 1](./path-or-link):** Sample Information Security Policy Framework (mapped to NIST SP 800-53).
 - **[Project Name 2](./path-or-link):** Third-Party Vendor Risk Assessment Matrix.
 - **[Project Name 3](./path-or-link):** Golang System Utility / CLI Tool for Security Audit Automation.
-
----
+-->
+--- 
 
 ### 📬 Connect with Me
 - **Email:** contact.a6c0y@aleeas.com
