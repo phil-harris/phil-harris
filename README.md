@@ -1,11 +1,9 @@
 <div align="center">
-    <h1>Philip Harris</h1>
+    <p style="font-size: 2em; font-weigh: bold; margin-bottom 8px;">Philip Harris</p>
     <p><strong>Cybersecurity & GRC Professional | 20+ Years Law Enforcement Experience</strong></p>
 </div>
 
 <br>
-
----
     
 Transitioning two decades of investigative experience, policy enforcement, and risk mitigation into **Cybersecurity** and **Governance, Risk, and Compliance (GRC)**. Currently completing my B.S. in IT Management and building expertise in security frameworks, risk assessments, and technical policy writing.
 
