@@ -37,7 +37,7 @@ Transitioning two decades of investigative experience, policy enforcement, and r
 --- 
 
 ### 📬 Connect with Me
-- **Email:** [Philip Harris](contact.a6c0y@aleeas.com)
+- **Email:** [Philip Harris](mailto:contact.a6c0y@aleeas.com)
 - **LinkedIn:** [Philip Harris](https://www.linkedin.com/in/philip-harris-k9/)
 
 ## ❤ Views and Followers
