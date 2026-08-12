@@ -1,6 +1,7 @@
 <div align="center">
     <h1>Philip Harris</h1>
     <p><strong>Cybersecurity & GRC Professional | 20+ Years Law Enforcement Experience</strong></p>
+</div>div>
 <br>
 ---
     
