@@ -1,6 +1,3 @@
-
-<a href="#"><img width="100%" height="auto" src="https://cdn.pixabay.com/photo/2016/09/08/04/12/programmer-1653351_1280.png" height="175px"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Phil</h1>
 
 ### Cybersecurity & GRC Professional | 20+ Years Law Enforcement Experience
