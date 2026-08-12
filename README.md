@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Phil</h1>
+<h1 align="center">Philip Harris</h1>
 
 ### Cybersecurity & GRC Professional | 20+ Years Law Enforcement Experience
 
