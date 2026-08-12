@@ -12,7 +12,7 @@ Transitioning two decades of investigative experience, policy enforcement, and r
 ### 🔭 What I'm Focused On
 - 🛡️ **GRC & Compliance:** Studying frameworks including NIST CSF, NIST SP 800-53, ISO/IEC 27001, and SOC 2.
 - 📜 **Policy & Risk Management:** Developing risk assessment methodologies, vendor risk management frameworks, and security policy documentation.
-- 💻 **Technical Foundations:** Hands-on experience with Linux environments, Go (Golang), shell scripting, and network security concepts.
+- 💻 **Technical Foundations:** Hands-on experience with Linux environments, SimpleRisk, CISO Assistant, shell scripting, and network security concepts.
 
 ---
 
