@@ -22,7 +22,7 @@ Transitioning two decades of investigative experience, policy enforcement, and r
 `NIST CSF 2.0` | `NIST SP 800-53 Rev 5` | `ISO 27001` | `SOC 2` | `PCI-DSS`
 
 **Technical & Security Tools**
-`Linux` | `SimpleRisk` | `CISO Assistant` 
+`Linux` | `SimpleRisk` | `CISO Assistant` | `eramba`
 
 **Core Competencies**
 `Risk Assessment` | `Policy Development & Writing` | `Auditing & Evidence Gathering` | `Incident Response Planning` | `Investigative Analysis`
