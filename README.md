@@ -22,7 +22,7 @@ Transitioning two decades of investigative experience, policy enforcement, and r
 `NIST CSF` | `NIST SP 800-53` | `ISO 27001` | `SOC 2` | `PCI-DSS`
 
 **Technical & Security Tools**
-`Linux` | `OneTrust` | `ProcessUnity` | `Prevalent` | `Archer` | `Vanta'
+`Linux` | `OneTrust` | `ProcessUnity` | `Prevalent` | `Archer` | `Vanta`
 
 **Core Competencies**
 `Risk Assessment` | `Policy Development & Writing` | `Auditing & Evidence Gathering` | `Incident Response Planning` | `Investigative Analysis`
